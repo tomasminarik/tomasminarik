@@ -6,6 +6,10 @@ I never stick to just a single role. I operate as a player-coach: setting the de
 
 ### Building with AI
 
+**[Zorja](https://github.com/tomasminarik/zorja)**
+Should you go out to see the northern lights tonight? An iPhone app that answers in plain words, weighing darkness, cloud and aurora activity. Designed in Figma and built with Claude Code: SwiftUI app and Python forecast backend.
+[zorja.app](https://zorja.app) · [App Store](https://apps.apple.com/app/id6833883953) · [Design in Figma](https://www.figma.com/design/aoeRKZh2khWgHNtaCmxZ55/Zorja-App---Public?node-id=86-688)
+
 **[Supporter XI](https://github.com/tomasminarik/SupporterXI)**
 Pick your Manchester United starting XI for the next match and share it. Side project, designed and built with Claude Code and Codex.
 [supporterxi.com](https://supporterxi.com) · [Case study](https://tomasminarik.com/work/supporter-xi)
